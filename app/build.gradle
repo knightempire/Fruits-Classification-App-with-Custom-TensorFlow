@@ -28,6 +28,7 @@ android {
     buildFeatures {
         mlModelBinding true
     }
+    namespace 'app.ij.mlwithtensorflowlite'
 }
 
 dependencies {
