@@ -4,8 +4,10 @@ This repository contains an image classification application that classifies fru
 
 ## Model Performance
 
-- **CNN Model Accuracy:** 92%
 - **MobileNetV2 Model Accuracy:** 58%
+- **CNN Model Accuracy:** 94%
+- **CapsNet:** 92%
+
 
 ## Methodology
 
