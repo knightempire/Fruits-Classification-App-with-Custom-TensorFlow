@@ -1,4 +1,4 @@
-# Image Classification App with Custom TensorFlow Model
+# Fruit Classification App with Custom TensorFlow Model
 
 This repository contains an image classification application that classifies fruits using a custom TensorFlow model. We have implemented and compared two models for this task: a Convolutional Neural Network (CNN) and MobileNetV2.
 
