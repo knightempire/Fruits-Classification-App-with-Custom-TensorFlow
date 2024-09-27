@@ -38,13 +38,15 @@ The dataset used for training and testing the models can be downloaded using the
 
 ## Colab Code
 
-You can view and run the Colab notebook for this project using the following link:
+You can view and run the Colab notebook for this project the model  using the following link:
 
-[Colab Notebook](https://colab.research.google.com/drive/1wVEoJc_2M3UzSkbvDa3oE312g3E5rmxl?usp=sharing)
+MobileNetV2  -  [MobileNetV2](https://colab.research.google.com/drive/1eeADonjWwsAGRG9j6FPMo_D-hk3DAFNK?usp=sharing)
+CNN  -  [CNN](https://colab.research.google.com/drive/1wVEoJc_2M3UzSkbvDa3oE312g3E5rmxl?usp=sharing)
+CapsNet -  [CapsNet](https://colab.research.google.com/drive/1gGzBO0CKchM7wfd8MdK4GoEA8PukYsDy?usp=sharing)
 
 ## Team
 
-- **Abinesh T** - [GitHub Profile](https://github.com/knightempire)
+- **Abinesh T** - [GitHub Profile](https://github.com/knightempire)  
 - **Shreeya Asawa** - [GitHub Profile](https://github.com/ShreeyaAsawa)
 
 ## License
