@@ -12,7 +12,7 @@ This repository contains an image classification application that classifies fru
 ## Methodology
 
 The methodology used in this project is visualized in the block diagram below:
- 
+  
 ![Methodology](https://i.imgur.com/zNPHXUA.png)
 
 ## Block Diagram
