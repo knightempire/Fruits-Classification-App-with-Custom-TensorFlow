@@ -7,7 +7,8 @@ This repository contains an image classification application that classifies fru
 - **MobileNetV2 Model Accuracy:** 58%
 - **CNN Model Accuracy:** 94%
 - **CapsNet:** 92%
-
+- **ResNet50:** 95%
+- **AlexNet:** 56%
 
 ## Methodology
 
