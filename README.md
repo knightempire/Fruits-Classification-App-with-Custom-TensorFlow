@@ -60,4 +60,6 @@ ResNet50 -  [ResNet50](https://colab.research.google.com/drive/16rc6cGHM3jJmmtDk
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+## Note
+As part of the Mobile Application Development course at Amrita School of Computing, we developed Potato Leaf Disease Detection App, focused on leaf disease detection. The app is designed to assist within the Accessibility & Assistive Technology domain, in detecting the potato leaf disease.
 
